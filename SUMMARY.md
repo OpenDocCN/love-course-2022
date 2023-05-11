@@ -7,3 +7,5 @@
 +   [朱利安](docs/zhu-li-an/README.md)
 +   [绅士派](docs/shen-shi-pai/README.md)
 +   [Q 帝](docs/q-di/README.md)
++   [嘉琪](docs/jia-qi/README.md)
++   [寒江雪](docs/han-jiang-xue/README.md)
