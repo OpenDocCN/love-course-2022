@@ -17,3 +17,4 @@
 +   [社交光谱](docs/she-jiao-guang-pu/README.md)
 +   [绅士派](docs/shen-shi-pai/README.md)
 +   [心理学习区](docs/xin-li/README.md)
++   [其它](docs/misc/README.md)
