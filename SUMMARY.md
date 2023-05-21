@@ -19,5 +19,6 @@
 +   [Leon](docs/leon/README.md)
 +   [魅力塑造](docs/mei-li-su-zao/README.md)
 +   [麦迪森](docs/mai-di-sen/README.md)
++   [魅力系统](docs/mei-li-xi-tong/README.md)
 +   [心理学习区](docs/xin-li/README.md)
 +   [其它](docs/misc/README.md)
