@@ -23,5 +23,6 @@
 +   [二月](docs/er-yue/README.md)
 +   [爱上情感](docs/ai-shang/README.md)
 +   [渣男研究院](docs/zha-nan-yan-jiu-yuan/README.md)
++   [香草情感](docs/xiang-cao/README.md)
 +   [心理学习区](docs/xin-li/README.md)
 +   [其它](docs/misc/README.md)
