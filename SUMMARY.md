@@ -21,5 +21,6 @@
 +   [麦迪森](docs/mai-di-sen/README.md)
 +   [魅力系统](docs/mei-li-xi-tong/README.md)
 +   [二月](docs/er-yue/README.md)
++   [爱上情感](docs/ai-shang/README.md)
 +   [心理学习区](docs/xin-li/README.md)
 +   [其它](docs/misc/README.md)
