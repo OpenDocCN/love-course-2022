@@ -16,5 +16,6 @@
 +   [七分学堂](docs/qi-fen/README.md)
 +   [社交光谱](docs/she-jiao-guang-pu/README.md)
 +   [绅士派](docs/shen-shi-pai/README.md)
++   [Leon](docs/leon/README.md)
 +   [心理学习区](docs/xin-li/README.md)
 +   [其它](docs/misc/README.md)
