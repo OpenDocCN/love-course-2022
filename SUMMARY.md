@@ -41,5 +41,7 @@
 +   [真爱之门](docs/zhen-ai-zhi-men/README.md)
 +   [追爱情感](docs/zhui-ai/README.md)
 +   [白魅](docs/bai-mei/README.md)
++   [泰勒](docs/tai-le/README.md)
++   [麦克斯](docs/mai-ke-si/README.md)
 +   [心理学习区](docs/xin-li/README.md)
 +   [其它](docs/misc/README.md)
